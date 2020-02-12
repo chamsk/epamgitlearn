@@ -1,3 +1,6 @@
 content file1 here
 
 this line added in feature2
+
+this content add in feature1
+
